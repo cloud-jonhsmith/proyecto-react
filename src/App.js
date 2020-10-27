@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          HOLA MUNDO
+          <br />
+          Usando <span>npx create-react-app proyecto-react</span>
         </p>
         <a
           className="App-link"
